@@ -9,6 +9,8 @@ vim.o.listchars = "eol:$,tab:>-,trail:~,extends:>,precedes:<"
 vim.o.number = true
 vim.o.relativenumber = true
 
+-- Set the color column to the default 80 character width as a soft-nudge.
+vim.o.colorcolumn = "80"
 
 -- Configure spaces as tabs.
 vim.o.expandtab = true
