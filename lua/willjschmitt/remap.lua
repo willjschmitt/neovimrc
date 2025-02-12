@@ -5,8 +5,9 @@ vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 vim.o.list = true
 vim.o.listchars = "eol:$,tab:>-,trail:~,extends:>,precedes:<"
 
--- Turn on line numbers.
+-- Turn on line numbers in relative-mode.
 vim.o.number = true
+vim.o.relativenumber = true
 
 
 -- Configure spaces as tabs.
