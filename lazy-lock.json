@@ -1,5 +1,6 @@
 {
   "Comment.nvim": { "branch": "master", "commit": "e30b7f2008e52442154b66f7c519bfd2f1e32acb" },
+  "black": { "branch": "main", "commit": "5f2370170819d282ec14dcda70f963d7574271e2" },
   "cmp-nvim-lsp": { "branch": "main", "commit": "99290b3ec1322070bcfb9e846450a46f6efa50f0" },
   "copilot.vim": { "branch": "release", "commit": "87038123804796ca7af20d1b71c3428d858a9124" },
   "cyberdream.nvim": { "branch": "main", "commit": "e46e958729a29492cc1681dac7bd8fd640a4d15b" },
